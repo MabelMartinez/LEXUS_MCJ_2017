@@ -1,0 +1,6 @@
+c:\users\lmartinez\documents\visual studio 2012\Projects\LEXUS_MCJ_2017\LEXUS_MCJ_2017\bin\Debug\LEXUS_MCJ_2017.exe.config
+c:\users\lmartinez\documents\visual studio 2012\Projects\LEXUS_MCJ_2017\LEXUS_MCJ_2017\bin\Debug\LEXUS_MCJ_2017.exe
+c:\users\lmartinez\documents\visual studio 2012\Projects\LEXUS_MCJ_2017\LEXUS_MCJ_2017\bin\Debug\LEXUS_MCJ_2017.pdb
+c:\users\lmartinez\documents\visual studio 2012\Projects\LEXUS_MCJ_2017\LEXUS_MCJ_2017\obj\Debug\LEXUS_MCJ_2017.csprojResolveAssemblyReference.cache
+c:\users\lmartinez\documents\visual studio 2012\Projects\LEXUS_MCJ_2017\LEXUS_MCJ_2017\obj\Debug\LEXUS_MCJ_2017.exe
+c:\users\lmartinez\documents\visual studio 2012\Projects\LEXUS_MCJ_2017\LEXUS_MCJ_2017\obj\Debug\LEXUS_MCJ_2017.pdb
